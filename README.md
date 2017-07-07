@@ -1,5 +1,5 @@
 # SearchEngine
-Creating a search engine similar to that of Google or Yahoo (crawling, indexing, and retrieval.
+Creating a search engine similar to that of Google or Yahoo (crawling, indexing, and retrieval).
 
 Crawling is the acquisition of data about a website, involving scanning the site and getting keywords it contains, and any other pages it links to. Then, you index those results that you get. Indexing is the process of taking all of that data you have from a crawl, and placing it in a database. Imagine trying to a make a list of all the books you own, their author and the number of pages. Going through each book is the crawl and writing the list is the index. But now imagine it’s not just a room full of books, but every library in the world. That's basically what Google does.
 
