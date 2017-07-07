@@ -1,2 +1,6 @@
 # SearchEngine
-Creating a search engine similar to that of Google or Yahoo.
+Creating a search engine similar to that of Google or Yahoo (crawling, indexing, and retrieval.
+
+Crawling is the acquisition of data about a website, involving scanning the site and getting keywords it contains, and any other pages it links to. Then, you index those results that you get. Indexing is the process of taking all of that data you have from a crawl, and placing it in a database. Imagine trying to a make a list of all the books you own, their author and the number of pages. Going through each book is the crawl and writing the list is the index. But now imagine it’s not just a room full of books, but every library in the world. That's basically what Google does.
+
+The last step involves retrieving that data that you have installed: you typed in a search query, and the search engine attempts to display the most relevant documents it finds that match your query. This is the most complicated step, but also the most relevant to you or I, as web developers and users. Some search engines work with keywords, some allow you to ask a question, and some include advanced features like keyword proximity or filtering by age of content. This code will provide the most basic ranking "algorithm".
